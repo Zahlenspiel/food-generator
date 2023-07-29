@@ -1,0 +1,63 @@
+﻿Gericht;Kategorie;veggie y/n?;Cook
+Überbackenes Baguette;Backen;Y;Lena
+Burger (selbstgemacht);Fleisch;N;Marc
+Empanadas;Fleisch;N;Lena
+Frikadellen;Fleisch;N;
+Hot Dogs;Fleisch;N;
+Pommes mit Nürnbergern;Fleisch;N;
+Gnocchi Hackpfanne;Gnocchi;N;Lena
+Gnocchi Zucchini und Tomate;Gnocchi;Y;Lena
+Bratkartoffeln;Kartoffel;Y;
+Kartoffelbrei;Kartoffel;Y;
+Kartoffelgratin;Kartoffel;Y;Lena
+Kartoffeln mit Quark;Kartoffel;Y;Marc
+Knoblauchkartoffeln;Kartoffel;Y;Marc
+Smashed Potatos;Kartoffel;Y;Marc
+Pommes;Kartoffel;Y;Lena
+Buchstaben-/Sternchensuppe;Nudeln;Y;
+Gemüse Nudelpfanne;Nudeln;N;
+Kirschtomatennudeln;Nudeln;Y;Lena
+Lasagne;Nudeln;N;Lena
+Linsenbolognese;Nudeln;Y;Lena
+Maccharoni Auflauf;Nudeln;N;Lena
+Nudel-Brokkoli-Auflauf;Nudeln;Y;Lena
+Nudel-Gratin (Knorr);Nudeln;N;
+Nudeln Aglio e Olio;Nudeln;Y;
+Nudeln Bolognese;Nudeln;N;
+Nudeln mit Ei;Nudeln;Y;
+Nudeln mit Haschee;Nudeln;N;
+Nudeln mit Pesto (+ Gemüse);Nudeln;Y;
+Nudeln mit Tomaten, Champignons, Käse,…;Nudeln;Y;Lena
+Nudeln mit Tomatensoße;Nudeln;Y;
+Salbeinudeln;Nudeln;Y;Lena
+Spaghetti Carbonara;Nudeln;N;Lena
+Spaghetti Pomodorini (L'Osteria Style);Nudeln;Y;Lena
+Spätzle mit Ei;Nudeln;Y;
+Spätzlepfanne mit Pilzen und Lauch;Nudeln;Y;Lena
+Tagliatelle mit Pilzen in Currysoße;Nudeln;Y;Lena
+Tortellini Salat;Nudeln;N;Lena
+Überbackene Nudeln mit Tomatensahnesoße;Nudeln;Y;
+Vegetarische Tortellini-Pfanne;Nudeln;Y;Lena
+Zitronenspagetti;Nudeln;Y;Lena
+Gefüllte Paprika;Reis;Y;Marc
+Gemüsereispfanne;Reis;Y;Lena
+Mango-Kichererbsen-Curry;Reis;Y;Lena
+Reis mit Erdnusssoße (Hähnchen Saté);Reis;YN;Lena
+Reis mit Süßsauersoße;Reis;Y;
+Reispfanne;Reis;Y;Marc
+Veganer Curryreis;Reis;Y;
+Salat;Salat;Y;
+Gemüsesuppe;Suppe;Y;
+Kartoffel-Kohl-Hack-Suppe;Suppe;Y;Lena
+Tomatensuppe;Suppe;Y;
+Milchreis;Süß;Y;
+Pfannkuchen;Süß;Y;
+Bistro Baguettes;TK;YN;
+Knoblauchecken;TK;Y;
+Minipizzen;TK;YN;
+Pizza (TK o. selbstgemacht);TK;YN;
+Falafel;Veggie;Y;
+Gemüsesticks;Veggie;Y;
+Gemüsetaler;Veggie;Y;
+Kidneybohnen Burger;Veggie;Y;Marc
+Wraps;;YN;Lena
